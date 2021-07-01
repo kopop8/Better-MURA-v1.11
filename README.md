@@ -23,6 +23,6 @@ Code is provided to fix the directory names with the new labels.
 
 ## Contribution
 Help with this project will be greatly appreciated! If you see a false positive or false negative that isn't already in changed_studies.txt, it would be appreciated if you made a pull request fixing them. 
-Right now this project focusses only on false negatives, so if someone who is qualified is willing to help fix the false positive you can send me a message.
+Right now this project focusses only on false negatives, so if someone who is qualified and is willing to help fix the false positives, you can send me a message.
 Together we can make MURA better :)
 

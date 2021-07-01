@@ -15,7 +15,8 @@ The mislabeled x-rays mainly had hardware in them.
 
 Code is provided to fix the directory names with the new labels.
 ## Usage
-Download or GIT clone repository.
-Put MURA folders in this directory.
-python renamer.py
+1. Download or GIT clone repository.
+2. Put MURA folders in this directory.
+3. python renamer.py
+4. When programm finishes the directorie are now named according to the new csv files
 

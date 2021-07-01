@@ -1,6 +1,6 @@
 # Better-MURA
 In this repository new csv files are provided that fixes 500+ mislabeled MURA x-rays for all categories.
-The mislabeled x-rays mainly had hardware in them.
+The mislabeled x-rays mainly had hardware in them. This project only fixes the false negatives.
 
 | Category  | Total negative x-rays test  | Wrongly classified  | Total negative x-rays valid  | Wrongly classified  |
 |---|---|---|---|---|
@@ -19,4 +19,10 @@ Code is provided to fix the directory names with the new labels.
 2. Put MURA folders in this directory.
 3. python renamer.py
 4. When programm finishes the directorie are now named according to the new csv files
+
+
+## Contribution
+Help with this project will be greatly appreciated! If you see a false positive or false negative that isn't already in changed_studies.txt, it would be appreciated if you made a pull request fixing them. 
+Right now this project focusses only on false negatives, so if someone who is qualified is willing to help fix the false positive you can send me a message.
+Together we can make MURA better :)
 

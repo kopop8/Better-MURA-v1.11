@@ -16,7 +16,7 @@ The mislabeled x-rays mainly had hardware in them. This project only fixes the f
 Code is provided to fix the directory names with the new labels.
 ## Usage
 1. Download or GIT clone repository.
-2. Put MURA-v1.11 folders in this directory.
+2. Put MURA-v1.11 train and valid folders in this directory.
 3. python renamer.py
 4. When the program finishes the directories are now named according to the new csv files
 

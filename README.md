@@ -1,6 +1,6 @@
 # Better-MURA
-In this repository new csv files are provided that fixes 500+ mislabeled MURA x-rays for all categories.
-The mislabeled x-rays mainly had hardware in them. This project only fixes the false negatives.
+In this repository, new csv files are provided that fixes 500+ mislabeled MURA x-rays for all categories.
+The mislabeled x-rays mainly had hardware in them. This project only fixes the false negatives for now.
 
 | Category  | Total negative x-rays test  | Wrongly classified  | Total negative x-rays valid  | Wrongly classified  |
 |---|---|---|---|---|

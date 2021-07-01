@@ -18,7 +18,7 @@ Code is provided to fix the directory names with the new labels.
 1. Download or GIT clone repository.
 2. Put MURA folders in this directory.
 3. python renamer.py
-4. When programm finishes the directorie are now named according to the new csv files
+4. When the program finishes the directories are now named according to the new csv files
 
 
 ## Contribution
